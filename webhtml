@@ -1,0 +1,259 @@
+# DJCSI-Web-23_DhruvKothari
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+  body{
+    background-color:blueviolet;
+  }
+ #logo{
+  height:75px;
+  width:150px;
+  background-color:blueviolet;
+  float:left;
+  padding-left:50px;
+}
+nav{
+  background-color: blueviolet;
+}
+nav a{
+  background-color: blueviolet;
+  float:right;
+  padding:10px ;
+ 
+}
+
+.container
+{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin:40px 20px;
+  font-weight: 200px;
+  padding:150px 20px;
+ font-size:50px;
+ display:flex;
+ flex-direction:row;
+
+}
+
+
+
+.text2
+{
+  padding-left:150px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size:15px;
+  
+}
+h1{
+  color:white;
+  font-size:50px;
+  align-content:center;
+  
+}
+.container2
+{
+  
+  display:flex;
+  padding:20px 20px;
+  justify-content: center;
+  background-color: beige;
+  
+}
+.phone1
+{
+  display:flex;
+  
+  padding:50px 50px;
+  justify-content:right;
+}
+.i1
+{
+  padding:50px 50px;
+}
+.i2 
+{
+  padding:50px 50px;
+}
+.reviews
+{
+  display:flex;
+  padding:50px 150px;
+  justify-content:center;
+  background-color: aliceblue;
+  text-align: center;
+  
+}
+.conc
+{
+  display:flex;
+  justify-content:center;
+  padding:50px50px;
+}
+.client
+{
+  display:flex;
+  padding:50px50px;
+}
+
+.conc h4,.conc div
+{
+  display:inline;
+}
+
+
+
+  
+</style>
+
+<body>
+  
+    <nav>
+      <img id="logo" src="logo.png" alt="">
+      <div class="dots">
+      <a href="#" style="color: white;">Contact us</a>
+       <a href="#"style="color: white;" >Testimonials</a>
+        <a href="#" style="color: white;">Clients</a>
+         <a href="#" style="color: white;">Integrations</a>
+          <a href="#" style="color: white;">Features</a>
+           <a href="#" style="color: white;">About</a>
+      
+
+    </nav>
+    
+  </div>
+  <section class="container">
+    <div class="text">
+      <p style="color: white;">The Quicker,better</p>
+      <p style="color: white;" >Smarter expense</p>
+      <p style="color: white;" >Management tool</p>
+    </div>
+
+    
+   <div class="phone">
+    <img src="phone.png" alt="">
+
+    
+  </div>
+  
+  
+  </section>
+  <div class="text2">
+    <p style="color:white;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia, obcaecati sequi nemo porro debitis adipisci nulla aperiam quisquam sunt cumque.</p>
+    <p style="color:white;">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio pariatur quae facilis esse ullam soluta officiis modi ipsum nisi harum.</p>
+    <p style="color:white;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus iste a, quaerat aut ea nisi libero provident nulla neque adipisci!</p>
+  </div>
+
+<h1 align="center">Tons of Features</h1>
+<div class="container2">
+  <div class="i1">
+    <img src="1.png" alt="">
+    <p>Features</p>
+  
+  
+    <img src="2.png" alt="">
+    <p>Features</p>
+
+    <img src="3.png" alt="">
+    <p>Features</p>
+    <img src="4.png" alt="">
+    <p>Features</p>
+    
+    
+  </div>
+  <div class="phone1">
+    <img src="phone.png" alt=""> 
+    
+    </div>
+    
+  <div class="i2">
+    <img src="5.png" alt="">
+    <p>Features</p>
+    <img src="6.png" alt="">
+    <p>Features</p>
+    <img src="7.png" alt="">
+    <p>Features</p>
+    <img src="8.png" alt="">
+    <p>Features</p>
+    
+      
+    
+    
+  </div>
+
+  
+
+  
+</div>
+<h2 align="center">Read our Rave reviews</h2>
+<div class="reviews">
+  <div class="client">
+    <div>
+      <img src="prof1.png" alr="">
+    </div>
+    <div>
+      <h4>Billy. J Bolds</h4>
+      <h5 align="center"> tcc</h5>
+     <p>Review 1</p>
+    </div>
+    
+    
+  </div>
+  <div class="client">
+    <div>
+      <img src="prof2.png" alt="">
+    </div>
+ 
+    <div>
+      <h4>Billy. J Bolds</h4>
+      <h5 align="center"> tcc</h5>
+      <p>Review 2</p>
+    </div>
+    
+  </div>
+  <div class="client">
+    <div>
+      <img src="prof3.png" alr="">
+    </div>
+  <div>
+    <h4>Billy. J Bolds</h4>
+    <h5 align="center"> tcc</h5>
+    <p>Review 3</p>
+  </div>
+    
+   
+  </div>
+  
+  
+
+</div>
+<h1 align="center">Ready to Simplify your finances</h1>
+<div class="conc">
+  
+  <div>
+    <img src="mail.png" alt=""><h4>hello@gokozo.com</h4>
+  </div>
+  <div>
+    <img src="call.png" alt=""><h4>998756135</h4>
+  </div>
+ 
+</div>
+
+
+  
+  
+  
+  
+    
+
+ 
+  
+    
+      
+      
+    
+    
+</body>
+</html>
